@@ -1,0 +1,30 @@
+from setuptools import setup, find_packages
+
+setup(
+    name="yulan",
+    version="0.1.0",
+    packages=find_packages(),
+    install_requires=[
+        'numpy>=1.21.0',
+        'cryptography>=3.4.7',
+        'pytest>=6.2.5',
+        'scipy>=1.7.0',
+        'torch>=1.9.0',
+        'pandas>=1.3.0',
+    ],
+    author="Yu Lan Team",
+    author_email="team@yulan.ai",
+    description="A decentralized AI framework integrating quantum-inspired computing with autonomous agents",
+    long_description=open('README.md').read(),
+    long_description_content_type="text/markdown",
+    url="https://github.com/Yu-Lan-AI/Yu-Lan",
+    classifiers=[
+        "Programming Language :: Python :: 3",
+        "License :: OSI Approved :: MIT License",
+        "Operating System :: OS Independent",
+        "Development Status :: 3 - Alpha",
+        "Intended Audience :: Science/Research",
+        "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    ],
+    python_requires='>=3.8',
+)
