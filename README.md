@@ -1,6 +1,6 @@
-# Yu Lan ($YULAN)
+# ANON AI $ANONAI
 
-**Yu Lan ($YULAN)** is a decentralized AI framework that integrates quantum-inspired computing with autonomous agents to revolutionize decision-making and solve complex, real-world problems.
+**ANON AI $ANONAI** is a decentralized AI framework that integrates quantum computing with autonomous agents to revolutionize decision-making and solve complex, real-world problems.
 
 ## Key Features
 - **Quantum-Inspired Layer**: Simulates superposition and entanglement for parallel decision-making.
