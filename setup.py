@@ -17,7 +17,7 @@ setup(
     description="A decentralized AI framework integrating quantum-inspired computing with autonomous agents",
     long_description=open('README.md').read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/Yu-Lan-AI/Yu-Lan",
+    url="https://github.com/anon-ai-labs/ANON-AI",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
