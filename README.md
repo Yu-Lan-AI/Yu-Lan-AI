@@ -17,7 +17,7 @@
 
 ## Repository Structure
 ```
-Yu-Lan-AI/
+ANON-AI/
 ├── docs/       # Documentation files
 ├── src/        # Source code for project
 ├── tests/      # Unit tests for each component
@@ -28,7 +28,7 @@ Yu-Lan-AI/
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Yu-Lan-AI/Yu-Lan.git
+   git clone https://github.com/anon-ai-labs/ANON-AI.git
    ```
 2. Install dependencies:
    ```bash
